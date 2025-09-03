@@ -14,7 +14,7 @@ import { githubUrl, twitterUrl } from '~/types'
           class="underline underline-offset-4"
           :to="twitterUrl"
         >
-          thecodingmontana
+          KennOtieno
         </NuxtLink>
         . Get the source code from {{ " " }}
         <NuxtLink
