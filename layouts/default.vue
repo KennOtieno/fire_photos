@@ -4,19 +4,19 @@ useHead({
     { property: 'og:title', content: `Fire Photographys` },
     {
       name: 'description',
-      content: 'Let's create memories together.',
+      content: 'Lets create memories together.',
     },
     {
       property: 'og:description',
-      content: 'Let's create memories together.',
+      content: 'Lets create memories together.',
     },
-    { property: 'og:url', content: 'Let's create memories together.' },
-    { name: 'twitter:title', content: 'Let's create memories together.' },
+    { property: 'og:url', content: 'Lets create memories together.' },
+    { name: 'twitter:title', content: 'Lets create memories together.' },
     {
       name: 'twitter:description',
-      content: 'Let's create memories together.',
+      content: 'Lets create memories together.',
     },
-    { name: 'twitter:site', content: 'Capture every moment with Fire Photos.' },
+    { name: 'twitter:site', content: 'Lets create memories together.' },
   ],
   title: `Fire Photos`,
 })
