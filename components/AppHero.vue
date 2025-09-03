@@ -50,7 +50,7 @@ const avatars = ref([
         :transition="{ duration: 0.6, delay: 0.2 }"
         class="text-5xl md:text-6xl font-medium mb-6 max-w-3xl mx-auto"
       >
-        Capture every precious moment with us
+        Your moments, beautifully preserved
       </Motion>
       <Motion
         as="p"
@@ -59,9 +59,9 @@ const avatars = ref([
         :transition="{ duration: 0.6, delay: 0.4 }"
         class="text-gray-600 dark:text-gray-400 mb-8 max-w-xl mx-auto"
       >
-        Because the best moments deserve to be remembered.
+        Because your memories are worth keeping.
         <br>
-        Let your memories shine through in every shot.
+        Your memories beautifully captured.
       </Motion>
       <Motion
         as="div"
@@ -71,7 +71,7 @@ const avatars = ref([
         :hover="{ transform: 'translateY(-10px) translateY(0px)' }"
       >
         <Button size="lg">
-          Book photoshoot now
+          Book Today
         </Button>
       </Motion>
       <Motion

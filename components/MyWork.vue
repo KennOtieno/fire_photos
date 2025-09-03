@@ -56,8 +56,8 @@ const handleHoverEnd = () => {
         :transition="{ duration: 0.8, delay: 0.2 }"
         class="text-2xl sm:text-4xl md:text-5xl font-serif leading-tight max-w-3xl mb-16"
       >
-        These are some of the photo work portfolios I've done. I do all kinds of
-        photos ranging from brand photos to model photos
+        My portfolio showcases a wide range of my work, including,
+        brand, product, and model photography.
       </Motion>
       <div class="overflow-hidden relative">
         <Motion

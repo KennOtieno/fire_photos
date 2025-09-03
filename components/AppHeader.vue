@@ -4,7 +4,7 @@ import { cn } from '~/lib/utils'
 
 const navLinks = ref([
   { name: 'Home', href: '#' },
-  { name: 'Contact', href: 'mailto:thecodingmontana@gmail.com' },
+  { name: 'Contact', href: 'johnsken9288@gmail.com' },
 ])
 
 const isOpenMenu = ref(false)

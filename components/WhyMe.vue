@@ -12,7 +12,7 @@ import { Motion } from 'motion-v'
         :transition="{ duration: 0.8 }"
         class="text-sm uppercase tracking-wider mb-4"
       >
-        Why Me
+        Why Me?
       </Motion>
       <Motion
         as="h1"
@@ -21,7 +21,7 @@ import { Motion } from 'motion-v'
         :transition="{ duration: 0.8, delay: 0.2 }"
         class="text-2xl sm:text-4xl md:text-5xl font-serif leading-tight max-w-3xl mb-16"
       >
-        I use my creativity and expertise to create timeless expressions and meaningful experiences for brands.
+        I craft lasting and impactful brand experiences through creative expression.
       </Motion>
       <div class="overflow-hidden relative">
         <ShuffleGrid class="h-[450px] sm:h-[750px]" />
