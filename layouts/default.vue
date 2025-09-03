@@ -1,30 +1,30 @@
 <script setup lang="ts">
 useHead({
   meta: [
-    { property: 'og:title', content: `Jonathan KE` },
+    { property: 'og:title', content: `Fire Photographys` },
     {
       name: 'description',
-      content: 'Capture every precious moment with us.',
+      content: 'Let's create memories together.',
     },
     {
       property: 'og:description',
-      content: 'Capture every precious moment with us.',
+      content: 'Let's create memories together.',
     },
-    { property: 'og:url', content: 'Capture every precious moment with us.' },
-    { name: 'twitter:title', content: 'Capture every precious moment with us.' },
+    { property: 'og:url', content: 'Let's create memories together.' },
+    { name: 'twitter:title', content: 'Let's create memories together.' },
     {
       name: 'twitter:description',
-      content: 'Capture every precious moment with us.',
+      content: 'Let's create memories together.',
     },
-    { name: 'twitter:site', content: 'Capture every precious moment with us.' },
+    { name: 'twitter:site', content: 'Capture every moment with Fire Photos.' },
   ],
-  title: `Jonathan KE`,
+  title: `Fire Photos`,
 })
 
 defineOgImageComponent('Nuxt', {
   headline: 'Greetings 👋',
-  title: 'Jonathan KE',
-  description: 'Capture every precious moment with us.',
+  title: 'Fire Photos',
+  description: 'Capture every moment with Fire Photos.',
 })
 </script>
 
